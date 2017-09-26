@@ -12,3 +12,6 @@ intros [H1 [y H2]].
 exists y.
 split; assumption.
 Qed.
+
+Check frobenius.
+Print frobenius.
